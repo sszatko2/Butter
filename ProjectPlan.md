@@ -1,4 +1,3 @@
-
 # Housing Affordability in the United States
 
 ## Overview
