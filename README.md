@@ -10,3 +10,4 @@ This project uses publicly available datasets from the following U.S. government
 
 This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau.
 
+The Census ACS data used in this project has been cleaned and transformed for academic research purposes. The resulting datasets are team-processed derivatives and should not be represented as unmodified Census Bureau publications.
