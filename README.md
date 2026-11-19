@@ -2,9 +2,9 @@
 
 This project uses publicly available datasets from the following U.S. government agencies:
 
-- **U.S. Census Bureau:** American Community Survey (ACS) 5-Year Estimates, 2019–2024. [Source]([https://www.bls.gov/lau/](https://www.census.gov/programs-surveys/acs))
+- **U.S. Census Bureau:** American Community Survey (ACS) 5-Year Estimates, 2019–2024. [Source](https://www.census.gov/programs-surveys/acs)
 - **Bureau of Labor Statistics (BLS):** Local Area Unemployment Statistics, 2019–2024. [Source](https://www.bls.gov/lau/)
-- **Bureau of Economic Analysis (BEA):** County Gross Domestic Product, 2019–2024. [Source]([https://www.bls.gov/lau/](https://www.bea.gov/data/gdp/gdp-by-county))
+- **Bureau of Economic Analysis (BEA):** County Gross Domestic Product, 2019–2024. [Source](https://www.bea.gov/data/gdp/gdp-by-county)
 
 ### U.S. Census Bureau API Disclaimer
 
