@@ -8,5 +8,5 @@ This project uses publicly available datasets from the following U.S. government
 
 ### U.S. Census Bureau API Disclaimer
 
-"This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau."
+This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau.
 
