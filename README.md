@@ -12,7 +12,7 @@ This product uses the Census Bureau Data API but is not endorsed or certified by
 
 The Census ACS data used in this project has been cleaned and transformed for academic research purposes. The resulting datasets are team-processed derivatives and should not be represented as unmodified Census Bureau publications.
 
-Bureau of Labor Statistics Attribution
+### Bureau of Labor Statistics Attribution
 
 The unemployment data used in this project has been cleaned and transformed for academic research purposes. The resulting dataset is a team-processed derivative of publicly available BLS statistics.
 
