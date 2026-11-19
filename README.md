@@ -17,3 +17,9 @@ The Census ACS data used in this project has been cleaned and transformed for ac
 The unemployment data used in this project has been cleaned and transformed for academic research purposes. The resulting dataset is a team-processed derivative of publicly available BLS statistics.
 
 The Bureau of Labor Statistics is acknowledged as the original source of the Local Area Unemployment Statistics data used in this project.
+
+### Bureau of Economic Analysis Attribution
+
+The county GDP data used in this project has been cleaned and transformed for academic research purposes. The resulting dataset is a team-processed derivative of publicly available BEA statistics.
+
+The Bureau of Economic Analysis is acknowledged as the original source of the county GDP estimates used in this project.
