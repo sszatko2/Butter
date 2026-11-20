@@ -70,6 +70,7 @@ Finally, the tested quality reports cover **accuracy checks, completeness, timel
 
 ### Brennan Ryan
 
+Brennan's assigned work focused on checking data quality before and after the three datasets were combined. The `assess_quality.py` script checks missing values, duplicate records, and inconsistencies using the four required dimensions: accuracy, completeness, timeliness, and consistency. Its findings are documented in `reports/pre_integration_quality.md` and `reports/post_integration_quality.md`. The merged dataset had no duplicate county-year records, although 22 affordability ratios were missing. Brennan will review these findings and identify anything that still needs to be fixed.
 
 ### Madelyn McNamara
 
