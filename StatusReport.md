@@ -14,7 +14,7 @@ We also completed an initial draft of the Data Profile section for our final pro
 
 ## Updated Project Timeline
 
-### Week 14
+### Week 14 (Fall Break)
 
 1. **Task 1: Pre-integration Data Quality Assessment:** We will assess the data quality of our chosen datasets across the dimensions of accuracy, completeness, timeliness, and consistency.
    - **Team Member:** Brennan Ryan
