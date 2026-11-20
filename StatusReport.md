@@ -14,7 +14,7 @@ We also completed an initial draft of the Data Profile section for our final pro
 
 ## Updated Project Timeline
 
-###Week 14
+### Week 14
 
 1. **Task 1: Pre-integration Data Quality Assessment:** We will assess the data quality of our chosen datasets across the dimensions of accuracy, completeness, timeliness, and consistency.
    - **Team Member:** Brennan Ryan
@@ -69,5 +69,8 @@ We also completed an initial draft of the Data Profile section for our final pro
 17. **Task 17: Submit Final Report:** We will submit the final report according to the submission guidelines outlined in the Course Project Instructions document.
     - **Team Member:** Brennan Ryan
 
+## Challenges
+
+One of the challenges we encountered involved differences in geographic coverage and data availability across our three datasets. For example, there were missing GDP observations associated with changes in county geographic boundaries in both Connecticut and Alaska. We also found that the three datasets contain a different amount of county observations per year, which could create unmatched datasets during integration. Another issue we found was that the U.S. Census Bureau American Community Survey (ACS) dataset uses five-year estimates while the Bureau of Labor Statistics (BLS) and Bureau of Economic Analysis (BEA) datasets provide annual statistics which limit data comparison across different years for the three datasets. To address these challenges, we standardized geographic identifiers, kept the identified missing values in favor of replacing them with potentially misleading estimates, and documented the differences in reporting methodologies between the three datasets. However, these issues will require further attention when we begin the integration process.
 
 
