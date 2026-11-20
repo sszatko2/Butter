@@ -74,6 +74,7 @@ Brennan's assigned work focused on checking data quality before and after the th
 
 ### Madelyn McNamara
 
+Maddy's part of the project focuses on checking the cleaning process and documenting the data. The `check_cleaning.py` script reviews the processed Census, BLS, and BEA files for missing information and duplicate records, with the results saved in `reports/cleaning_verification.md`. The `make_dictionary.py` script creates `docs/data_dictionary.md`, which lists the columns and data types in the merged dataset. She is also helping put together the updated timeline and status report.
 
 ### Aidan Flaherty
 
@@ -82,6 +83,3 @@ Aidan's assigned work involved combining the three datasets and setting up the w
 ### Samantha Szatko
 
 I downloaded and processed the Bureau of Labor Statistics (BLS), Local Area Unemployment Statistics (LAUS), Bureau of Economic Analysis (BEA) County GDP, and U.S. Census Bureau American Community Survey (ACS) datasets. I cleaned and organized the raw data into CSV format for each dataset and uploaded the processed files into our GitHub repository. I also conducted analysis for ethical data handling by reviewing each sources’ data-use policies and identified relevant considerations related to privacy, copyright, attribution, and data redistribution, all of which will be addressed in our project’s final report. I also drafted the Data Profile section for the final report. 
-
-
-
