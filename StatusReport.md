@@ -73,4 +73,11 @@ We also completed an initial draft of the Data Profile section for our final pro
 
 One of the challenges we encountered involved differences in geographic coverage and data availability across our three datasets. For example, there were missing GDP observations associated with changes in county geographic boundaries in both Connecticut and Alaska. We also found that the three datasets contain a different amount of county observations per year, which could create unmatched datasets during integration. Another issue we found was that the U.S. Census Bureau American Community Survey (ACS) dataset uses five-year estimates while the Bureau of Labor Statistics (BLS) and Bureau of Economic Analysis (BEA) datasets provide annual statistics which limit data comparison across different years for the three datasets. To address these challenges, we standardized geographic identifiers, kept the identified missing values in favor of replacing them with potentially misleading estimates, and documented the differences in reporting methodologies between the three datasets. However, these issues will require further attention when we begin the integration process.
 
+## Individual Summaries
+
+### Samantha Szatko
+
+I downloaded and processed the Bureau of Labor Statistics (BLS), Local Area Unemployment Statistics (LAUS), Bureau of Economic Analysis (BEA) County GDP, and U.S. Census Bureau American Community Survey (ACS) datasets. I cleaned and organized the raw data into CSV format for each dataset and uploaded the processed files into our GitHub repository. I also conducted analysis for ethical data handling by reviewing each sources’ data-use policies and identified relevant considerations related to privacy, copyright, attribution, and data redistribution, all of which will be addressed in our project’s final report. I also drafted the Data Profile section for the final report. 
+
+
 
